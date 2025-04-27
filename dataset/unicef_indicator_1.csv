@@ -1,0 +1,785 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2015,57.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2022,62.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2015,59.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2022,59.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2015,58.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Afghanistan,AF,AFG,4,Zero vegetable or fruit consumption (6-23months),2022,61,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2009,19.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2017,23.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2009,27.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2017,28.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2009,24.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Albania,AL,ALB,8,Zero vegetable or fruit consumption (6-23months),2017,25.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Algeria,DZ,DZA,12,Zero vegetable or fruit consumption (6-23months),2019,27.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Algeria,DZ,DZA,12,Zero vegetable or fruit consumption (6-23months),2019,24.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Algeria,DZ,DZA,12,Zero vegetable or fruit consumption (6-23months),2019,26,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Angola,AO,AGO,24,Zero vegetable or fruit consumption (6-23months),2015,38.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Angola,AO,AGO,24,Zero vegetable or fruit consumption (6-23months),2015,34.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Angola,AO,AGO,24,Zero vegetable or fruit consumption (6-23months),2015,36.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2005,18.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2010,23.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2016,24.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2005,19.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2010,25.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2016,19.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2005,19,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2010,24.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Armenia,AM,ARM,51,Zero vegetable or fruit consumption (6-23months),2016,22.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Azerbaijan,AZ,AZE,31,Zero vegetable or fruit consumption (6-23months),2006,40.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Azerbaijan,AZ,AZE,31,Zero vegetable or fruit consumption (6-23months),2006,36.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Azerbaijan,AZ,AZE,31,Zero vegetable or fruit consumption (6-23months),2006,38.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2011,54.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2014,50.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2018,49.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2019,45.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2011,56.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2014,55.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2018,45.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2019,44.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2011,55.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2014,52.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2018,47.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bangladesh,BD,BGD,50,Zero vegetable or fruit consumption (6-23months),2019,44.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belarus,BY,BLR,112,Zero vegetable or fruit consumption (6-23months),2019,2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belarus,BY,BLR,112,Zero vegetable or fruit consumption (6-23months),2019,3.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belarus,BY,BLR,112,Zero vegetable or fruit consumption (6-23months),2019,3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belize,BZ,BLZ,84,Zero vegetable or fruit consumption (6-23months),2015,29,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belize,BZ,BLZ,84,Zero vegetable or fruit consumption (6-23months),2015,31.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Belize,BZ,BLZ,84,Zero vegetable or fruit consumption (6-23months),2015,30.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2012,54.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2014,54.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2018,55.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2021,47.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2012,50.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2014,54.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2018,52.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2021,48.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2012,52.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2014,54.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2018,54.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Benin,BJ,BEN,204,Zero vegetable or fruit consumption (6-23months),2021,47.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bhutan,BT,BTN,64,Zero vegetable or fruit consumption (6-23months),2015,59.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bhutan,BT,BTN,64,Zero vegetable or fruit consumption (6-23months),2015,62.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Bhutan,BT,BTN,64,Zero vegetable or fruit consumption (6-23months),2015,60.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2008,18.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2016,16.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2008,20.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2016,15.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2008,19.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Zero vegetable or fruit consumption (6-23months),2016,15.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Brazil,BR,BRA,76,Zero vegetable or fruit consumption (6-23months),2019,22.5,Female,Units,%,Reported,,Middle of fieldwork,6 to 23 months old
+Brazil,BR,BRA,76,Zero vegetable or fruit consumption (6-23months),2019,19.4,Male,Units,%,Reported,,Middle of fieldwork,6 to 23 months old
+Brazil,BR,BRA,76,Zero vegetable or fruit consumption (6-23months),2019,20.9,Total,Units,%,Reported,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2010,74.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2019,24.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2020,30.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2021,33.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2010,74.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2019,27.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2020,31.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2021,32.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2010,74.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2019,26,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2020,31.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burkina Faso,BF,BFA,854,Zero vegetable or fruit consumption (6-23months),2021,33.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2010,18.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2016,8.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2010,19.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2016,10.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2010,18.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Burundi,BI,BDI,108,Zero vegetable or fruit consumption (6-23months),2016,9.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2005,38,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2010,35.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2014,36.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2021,29,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2005,38.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2010,37.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2014,34.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2021,28.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2005,38.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2010,36.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2014,35.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cambodia,KH,KHM,116,Zero vegetable or fruit consumption (6-23months),2021,28.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2011,40,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2014,40.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2018,31.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2011,39.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2014,42.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2018,31.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2011,39.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2014,41.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cameroon,CM,CMR,120,Zero vegetable or fruit consumption (6-23months),2018,31.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Central African Republic,CF,CAF,140,Zero vegetable or fruit consumption (6-23months),2010,22.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Central African Republic,CF,CAF,140,Zero vegetable or fruit consumption (6-23months),2010,21,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Central African Republic,CF,CAF,140,Zero vegetable or fruit consumption (6-23months),2010,21.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2015,70.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-08,70.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-09,48.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2020,76.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2022,28,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2015,69.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-08,71.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-09,47.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2020,80.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2022,28.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2015,70.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-08,70.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2019-09,47.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2020,78.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Chad,TD,TCD,148,Zero vegetable or fruit consumption (6-23months),2022,28.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2013,28.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2017,8.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2013,30,Male,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2017,9.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2013,29.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+China,CN,CHN,156,Zero vegetable or fruit consumption (6-23months),2017,9.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2010,26.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2016,16.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2010,22.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2016,14.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2010,24.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Colombia,CO,COL,170,Zero vegetable or fruit consumption (6-23months),2016,15.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Comoros,KM,COM,174,Zero vegetable or fruit consumption (6-23months),2012,43.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Comoros,KM,COM,174,Zero vegetable or fruit consumption (6-23months),2012,59.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Comoros,KM,COM,174,Zero vegetable or fruit consumption (6-23months),2012,51.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2011,39.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2014,53.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2011,38.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2014,49.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2011,39.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Congo,CG,COG,178,Zero vegetable or fruit consumption (6-23months),2014,51.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Costa Rica,CR,CRI,188,Zero vegetable or fruit consumption (6-23months),2018,8.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Costa Rica,CR,CRI,188,Zero vegetable or fruit consumption (6-23months),2018,11,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Costa Rica,CR,CRI,188,Zero vegetable or fruit consumption (6-23months),2018,9.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2014,27.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2019,22.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2014,26.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2019,20.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2014,26.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Cuba,CU,CUB,192,Zero vegetable or fruit consumption (6-23months),2019,21.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2012,72.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2016,45.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2021,42.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2012,78.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2016,43.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2021,40.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2012,75.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2016,44.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ivory Coast,CI,CIV,384,Zero vegetable or fruit consumption (6-23months),2021,41.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2013,28.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2017,30.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2013,29.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2017,25.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2013,28.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Zero vegetable or fruit consumption (6-23months),2017,28.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2007,30.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2013,37.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2014,35,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2019,20,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2007,31.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2013,38.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2014,34.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2019,17.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2007,30.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2013,38.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2014,34.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Dominican Republic,DO,DOM,214,Zero vegetable or fruit consumption (6-23months),2019,18.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ecuador,EC,ECU,218,Zero vegetable or fruit consumption (6-23months),2019,26.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ecuador,EC,ECU,218,Zero vegetable or fruit consumption (6-23months),2019,26.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ecuador,EC,ECU,218,Zero vegetable or fruit consumption (6-23months),2019,26.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2005,34.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2008,45.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2014,43.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2021,34.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2005,32.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2008,47.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2014,46,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2021,35.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2005,33.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2008,46.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2014,44.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Egypt,EG,EGY,818,Zero vegetable or fruit consumption (6-23months),2021,35.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+El Salvador,SV,SLV,222,Zero vegetable or fruit consumption (6-23months),2014,15.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+El Salvador,SV,SLV,222,Zero vegetable or fruit consumption (6-23months),2014,16.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+El Salvador,SV,SLV,222,Zero vegetable or fruit consumption (6-23months),2014,15.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2006,26.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2014,21.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2006,26.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2014,20.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2006,26.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Swaziland,SZ,SWZ,748,Zero vegetable or fruit consumption (6-23months),2014,21.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2005,83.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2011,81.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2016,68.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2019,68.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2005,81.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2011,82.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2016,69.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2019,70.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2005,82.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2011,82.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2016,68.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ethiopia,ET,ETH,231,Zero vegetable or fruit consumption (6-23months),2019,69.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Fiji,FJ,FJI,242,Zero vegetable or fruit consumption (6-23months),2021,11,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Fiji,FJ,FJI,242,Zero vegetable or fruit consumption (6-23months),2021,12.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Fiji,FJ,FJI,242,Zero vegetable or fruit consumption (6-23months),2021,11.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2012,49.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2020,43.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2012,55.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2020,41.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2012,52.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gabon,GA,GAB,266,Zero vegetable or fruit consumption (6-23months),2020,42.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2013,76.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2018,63.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2020,56.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2013,74.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2018,62.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2020,56.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2013,75.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2018,63,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Gambia,GM,GMB,270,Zero vegetable or fruit consumption (6-23months),2020,56.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Georgia,GE,GEO,268,Zero vegetable or fruit consumption (6-23months),2018,7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Georgia,GE,GEO,268,Zero vegetable or fruit consumption (6-23months),2018,11.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Georgia,GE,GEO,268,Zero vegetable or fruit consumption (6-23months),2018,9.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2008,31.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2011,34.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2014,49.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2017,40.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2008,27.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2011,33.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2014,52,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2017,45.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2008,29.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2011,33.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2014,50.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Ghana,GH,GHA,288,Zero vegetable or fruit consumption (6-23months),2017,42.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guatemala,GT,GTM,320,Zero vegetable or fruit consumption (6-23months),2015,26.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guatemala,GT,GTM,320,Zero vegetable or fruit consumption (6-23months),2015,26.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guatemala,GT,GTM,320,Zero vegetable or fruit consumption (6-23months),2015,26.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2012,80.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2016,83.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2018,63.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2012,83.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2016,85.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2018,61.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2012,82.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2016,84.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea,GN,GIN,324,Zero vegetable or fruit consumption (6-23months),2018,62.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2014,42.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2019,68.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2014,44.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2019,69.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2014,43.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guinea-Bissau,GW,GNB,624,Zero vegetable or fruit consumption (6-23months),2019,69,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2009,28.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2014,17.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2019,27.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2009,31.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2014,16.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2019,38,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2009,30.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2014,16.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Guyana,GY,GUY,328,Zero vegetable or fruit consumption (6-23months),2019,32.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2006,48.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2012,38.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2017,53.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2006,46.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2012,40,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2017,55.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2006,47.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2012,39.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Haiti,HT,HTI,332,Zero vegetable or fruit consumption (6-23months),2017,54.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2006,44.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2012,36.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2019,35.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2006,43.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2012,35.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2019,37.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2006,43.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2012,36.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Honduras,HN,HND,340,Zero vegetable or fruit consumption (6-23months),2019,36.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2006,59.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2015,54.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2017,53.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2020,52.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2006,58.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2015,55.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2017,56.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2020,51.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2006,58.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2015,54.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2017,54.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,6 to 23 months old
+India,IN,IND,356,Zero vegetable or fruit consumption (6-23months),2020,52,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2012,20.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2017,16.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2012,21.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2017,19.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2012,21.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Indonesia,ID,IDN,360,Zero vegetable or fruit consumption (6-23months),2017,17.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Iraq,IQ,IRQ,368,Zero vegetable or fruit consumption (6-23months),2018,25,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Iraq,IQ,IRQ,368,Zero vegetable or fruit consumption (6-23months),2018,25.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Iraq,IQ,IRQ,368,Zero vegetable or fruit consumption (6-23months),2018,25.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2007,21.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2012,29.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2017,41.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2019,36.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2007,20.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2012,29.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2017,40.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2019,51.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2007,21.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2012,29.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2017,41.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Jordan,JO,JOR,400,Zero vegetable or fruit consumption (6-23months),2019,43.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kazakhstan,KZ,KAZ,398,Zero vegetable or fruit consumption (6-23months),2015,21.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kazakhstan,KZ,KAZ,398,Zero vegetable or fruit consumption (6-23months),2015,21.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kazakhstan,KZ,KAZ,398,Zero vegetable or fruit consumption (6-23months),2015,21.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2014,28.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2022,23.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2014,28.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2022,27.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2014,28.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kenya,KE,KEN,404,Zero vegetable or fruit consumption (6-23months),2022,25.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2009,35.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2018,54,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2009,33.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2018,49.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2009,34.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kiribati,KI,KIR,296,Zero vegetable or fruit consumption (6-23months),2018,51.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2012,46.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2014,38.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2018,15.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2021,19.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2012,47.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2014,36.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2018,12.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2021,13.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2012,47.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2014,37.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2018,13.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Kyrgyzstan,KG,KGZ,417,Zero vegetable or fruit consumption (6-23months),2021,16.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lao People's Democratic Republic,LA,LAO,418,Zero vegetable or fruit consumption (6-23months),2017,36.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lao People's Democratic Republic,LA,LAO,418,Zero vegetable or fruit consumption (6-23months),2017,36.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lao People's Democratic Republic,LA,LAO,418,Zero vegetable or fruit consumption (6-23months),2017,36.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lebanon,LB,LBN,422,Zero vegetable or fruit consumption (6-23months),2021,30.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lebanon,LB,LBN,422,Zero vegetable or fruit consumption (6-23months),2021,23.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lebanon,LB,LBN,422,Zero vegetable or fruit consumption (6-23months),2021,27.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2009,31,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2014,50.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2018,36.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2009,33.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2014,49.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2018,33.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2009,32.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2014,50,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Lesotho,LS,LSO,426,Zero vegetable or fruit consumption (6-23months),2018,35.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2007,35.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2013,38.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2019,56.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2007,31.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2013,38.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2019,54.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2007,33.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2013,38.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Liberia,LR,LBR,430,Zero vegetable or fruit consumption (6-23months),2019,55.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2009,33.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2018,27.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2021,30.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2009,32.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2018,25,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2021,27.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2009,33.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2018,26.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Madagascar,MG,MDG,450,Zero vegetable or fruit consumption (6-23months),2021,29.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2010,29.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2014,22,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2015,22.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2020,25.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2010,30,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2014,21.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2015,23.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2020,27,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2010,29.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2014,21.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2015,22.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Malawi,MW,MWI,454,Zero vegetable or fruit consumption (6-23months),2020,26.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2009,32,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2017,17.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2009,29,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2017,12.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2009,30.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Maldives,MV,MDV,462,Zero vegetable or fruit consumption (6-23months),2017,15.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2010,58.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2015,69.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2018,52.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2019,44.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2020,33.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2021,42.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2010,59.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2015,70.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2018,54.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2019,43.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2020,36.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2021,44.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2010,59,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2015,69.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2018,53.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2019,44.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2020,35,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mali,ML,MLI,466,Zero vegetable or fruit consumption (6-23months),2021,43.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Marshall Islands,MH,MHL,584,Zero vegetable or fruit consumption (6-23months),2017,48.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Marshall Islands,MH,MHL,584,Zero vegetable or fruit consumption (6-23months),2017,44.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Marshall Islands,MH,MHL,584,Zero vegetable or fruit consumption (6-23months),2017,46.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2015,48.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2020,56,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2015,54.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2020,54.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2015,51.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mauritania,MR,MRT,478,Zero vegetable or fruit consumption (6-23months),2020,55.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mexico,MX,MEX,484,Zero vegetable or fruit consumption (6-23months),2015,17.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mexico,MX,MEX,484,Zero vegetable or fruit consumption (6-23months),2015,18.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mexico,MX,MEX,484,Zero vegetable or fruit consumption (6-23months),2015,18.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2013,39.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2016,34.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2018,46.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2013,39.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2016,38.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2018,44.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2013,39.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2016,36.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mongolia,MN,MNG,496,Zero vegetable or fruit consumption (6-23months),2018,45.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2013,7.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2018,9.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2013,10.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2018,11.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2013,9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Montenegro,ME,MNE,499,Zero vegetable or fruit consumption (6-23months),2018,10.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mozambique,MZ,MOZ,508,Zero vegetable or fruit consumption (6-23months),2011,35.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mozambique,MZ,MOZ,508,Zero vegetable or fruit consumption (6-23months),2011,36.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Mozambique,MZ,MOZ,508,Zero vegetable or fruit consumption (6-23months),2011,35.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Myanmar,MM,MMR,104,Zero vegetable or fruit consumption (6-23months),2016,59.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Myanmar,MM,MMR,104,Zero vegetable or fruit consumption (6-23months),2016,52.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Myanmar,MM,MMR,104,Zero vegetable or fruit consumption (6-23months),2016,55.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2007,48.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2013,51.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2007,47.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2013,52.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2007,48,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Namibia,,NAM,516,Zero vegetable or fruit consumption (6-23months),2013,51.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2006,41.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2011,55.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2014,42,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2016,36.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2019,38.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2022,32.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2006,42.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2011,55,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2014,42.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2016,40,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2019,37.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2022,33.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2006,41.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2011,55.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2014,42.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2016,38.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2019,38.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nepal,NP,NPL,524,Zero vegetable or fruit consumption (6-23months),2022,33.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2012,65.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2018,74.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2019,41.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2020,19.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2021,25,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2022,45.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2012,69.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2018,70.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2019,43.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2020,22.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2021,27.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2022,45,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2012,67.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2018,72.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2019,42.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2020,21,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2021,26,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Niger,NE,NER,562,Zero vegetable or fruit consumption (6-23months),2022,45.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2008,45.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2013,58.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2016,30.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2018,54.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2021,40.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2008,47.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2013,61.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2016,33,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2018,51.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2021,41.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2008,46.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2013,59.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2016,31.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2018,52.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Nigeria,NG,NGA,566,Zero vegetable or fruit consumption (6-23months),2021,41,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Zero vegetable or fruit consumption (6-23months),2019,10.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Zero vegetable or fruit consumption (6-23months),2019,15,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Zero vegetable or fruit consumption (6-23months),2019,13,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2013,57.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2018,60,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2013,55.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2018,62.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2013,56.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Pakistan,PK,PAK,586,Zero vegetable or fruit consumption (6-23months),2018,61.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Papua New Guinea,PG,PNG,598,Zero vegetable or fruit consumption (6-23months),2017,13.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Papua New Guinea,PG,PNG,598,Zero vegetable or fruit consumption (6-23months),2017,12,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Papua New Guinea,PG,PNG,598,Zero vegetable or fruit consumption (6-23months),2017,12.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Paraguay,PY,PRY,600,Zero vegetable or fruit consumption (6-23months),2016,17.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Paraguay,PY,PRY,600,Zero vegetable or fruit consumption (6-23months),2016,15.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Paraguay,PY,PRY,600,Zero vegetable or fruit consumption (6-23months),2016,16.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2007,11.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2009,14.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2010,9.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2011,12,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2012,11.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2014,6.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2015,7.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2016,7.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2017,5.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2018,5.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2019,6.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2020,7.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2021,6.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2022,13.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2007,12.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2009,12.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2010,12.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2011,10.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2012,9.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2014,8.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2015,7.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2016,7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2017,6.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2018,6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2019,5.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2020,5.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2021,5.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2022,12.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2007,12.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2009,13.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2010,11.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2011,11.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2012,10.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2014,7.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2015,7.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2016,7.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2017,6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2018,5.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2019,6.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2020,6.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2021,5.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Peru,PE,PER,604,Zero vegetable or fruit consumption (6-23months),2022,13.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2008,21.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2022,25.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2008,22.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2022,29.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2008,21.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Philippines,PH,PHL,608,Zero vegetable or fruit consumption (6-23months),2022,27.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Moldova, Republic of",MD,MDA,498,Zero vegetable or fruit consumption (6-23months),2005,8.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Moldova, Republic of",MD,MDA,498,Zero vegetable or fruit consumption (6-23months),2005,10.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Moldova, Republic of",MD,MDA,498,Zero vegetable or fruit consumption (6-23months),2005,9.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2010,26.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2015,24.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2018,21.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2020,17.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2010,27.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2015,25.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2018,22.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2020,14.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2010,27,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2015,25.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2018,22.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Rwanda,RW,RWA,646,Zero vegetable or fruit consumption (6-23months),2020,16.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Samoa,WS,WSM,882,Zero vegetable or fruit consumption (6-23months),2019,27.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Samoa,WS,WSM,882,Zero vegetable or fruit consumption (6-23months),2019,21.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Samoa,WS,WSM,882,Zero vegetable or fruit consumption (6-23months),2019,24.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2008,29.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2014,23.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2019,36.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2008,22.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2014,29.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2019,27.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2008,25.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2014,26.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sao Tome and Principe,ST,STP,678,Zero vegetable or fruit consumption (6-23months),2019,31.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2011,50.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2013,51.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2014,52.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2015,57.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2016,67.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2017,52.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2018,49.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2019,51.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2011,49.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2013,58.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2014,53.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2015,57.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2016,65.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2017,51.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2018,48.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2019,53.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2011,50.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2013,55,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2014,52.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2015,57.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2016,66.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2017,52.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2018,49.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Senegal,SN,SEN,686,Zero vegetable or fruit consumption (6-23months),2019,52.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2014,4.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2019,2.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2014,2.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2019,2.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2014,3.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Serbia,RS,SRB,688,Zero vegetable or fruit consumption (6-23months),2019,2.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2008,35,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2013,59.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2017,42,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2019,52.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2021,52.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2008,36.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2013,60.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2017,43.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2019,50.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2021,54.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2008,35.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2013,60.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2017,42.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2019,51.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sierra Leone,SL,SLE,694,Zero vegetable or fruit consumption (6-23months),2021,53.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Somalia,SO,SOM,706,Zero vegetable or fruit consumption (6-23months),2018,64.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Somalia,SO,SOM,706,Zero vegetable or fruit consumption (6-23months),2018,65.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Somalia,SO,SOM,706,Zero vegetable or fruit consumption (6-23months),2018,65.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+South Africa,ZA,ZAF,710,Zero vegetable or fruit consumption (6-23months),2016,35.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+South Africa,ZA,ZAF,710,Zero vegetable or fruit consumption (6-23months),2016,38.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+South Africa,ZA,ZAF,710,Zero vegetable or fruit consumption (6-23months),2016,37.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sri Lanka,LK,LKA,144,Zero vegetable or fruit consumption (6-23months),2016,11.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sri Lanka,LK,LKA,144,Zero vegetable or fruit consumption (6-23months),2016,10,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sri Lanka,LK,LKA,144,Zero vegetable or fruit consumption (6-23months),2016,10.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2014,26.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2020,29,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2014,27.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2020,27.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2014,27.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Zero vegetable or fruit consumption (6-23months),2020,28.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sudan,SD,SDN,736,Zero vegetable or fruit consumption (6-23months),2014,66.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sudan,SD,SDN,736,Zero vegetable or fruit consumption (6-23months),2014,67.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Sudan,SD,SDN,736,Zero vegetable or fruit consumption (6-23months),2014,67,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Suriname,SR,SUR,740,Zero vegetable or fruit consumption (6-23months),2018,27.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Suriname,SR,SUR,740,Zero vegetable or fruit consumption (6-23months),2018,31,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Suriname,SR,SUR,740,Zero vegetable or fruit consumption (6-23months),2018,29.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2012,48.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2017,56.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2012,49.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2017,58.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2012,49,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tajikistan,TJ,TJK,762,Zero vegetable or fruit consumption (6-23months),2017,57.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2016,20.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2019,15.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2022,16.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2016,23.2,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2019,12.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2022,16.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2016,22.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2019,13.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Thailand,TH,THA,764,Zero vegetable or fruit consumption (6-23months),2022,16.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2009,34.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2016,36.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2020,34.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2009,33.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2016,33.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2020,33.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2009,34.3,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2016,35.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Timor-Leste,TL,TLS,626,Zero vegetable or fruit consumption (6-23months),2020,34,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2014,44.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2017,47.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2014,45.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2017,47.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2014,44.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Togo,TG,TGO,768,Zero vegetable or fruit consumption (6-23months),2017,47.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tonga,TO,TON,776,Zero vegetable or fruit consumption (6-23months),2019,10.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tonga,TO,TON,776,Zero vegetable or fruit consumption (6-23months),2019,9.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tonga,TO,TON,776,Zero vegetable or fruit consumption (6-23months),2019,10.2,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tunisia,TN,TUN,788,Zero vegetable or fruit consumption (6-23months),2018,18.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tunisia,TN,TUN,788,Zero vegetable or fruit consumption (6-23months),2018,20.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tunisia,TN,TUN,788,Zero vegetable or fruit consumption (6-23months),2018,19.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2015,9.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2019,11.9,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2015,8.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2019,11.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2015,9.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turkmenistan,TM,TKM,795,Zero vegetable or fruit consumption (6-23months),2019,11.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Turks and Caicos Islands,TC,TCA,796,Zero vegetable or fruit consumption (6-23months),2020,42.1,Female,Units,%,Low reliability,,Middle of fieldwork,6 to 23 months old
+Turks and Caicos Islands,TC,TCA,796,Zero vegetable or fruit consumption (6-23months),2020,23.1,Male,Units,%,Low reliability,,Middle of fieldwork,6 to 23 months old
+Turks and Caicos Islands,TC,TCA,796,Zero vegetable or fruit consumption (6-23months),2020,34.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tuvalu,TV,TUV,798,Zero vegetable or fruit consumption (6-23months),2019,44.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tuvalu,TV,TUV,798,Zero vegetable or fruit consumption (6-23months),2019,42.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Tuvalu,TV,TUV,798,Zero vegetable or fruit consumption (6-23months),2019,43.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2006,53.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2011,44.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2016,43.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2006,50.1,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2011,46.9,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2016,43.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2006,51.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2011,45.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2016,43.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uganda,UG,UGA,800,Zero vegetable or fruit consumption (6-23months),2020,54.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2010,27.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2015,29.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2022,41.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2010,28.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2015,29.4,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2022,39.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2010,28.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2015,29.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+"Tanzania, United Republic of",TZ,TZA,834,Zero vegetable or fruit consumption (6-23months),2022,40.4,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uruguay,UY,URY,858,Zero vegetable or fruit consumption (6-23months),2018,6.3,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uruguay,UY,URY,858,Zero vegetable or fruit consumption (6-23months),2018,4.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uruguay,UY,URY,858,Zero vegetable or fruit consumption (6-23months),2018,5.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2017,43.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2021,12.1,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2017,42,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2021,16.6,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2017,42.9,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Uzbekistan,UZ,UZB,860,Zero vegetable or fruit consumption (6-23months),2021,14.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2014,15.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2020,16.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2014,12,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2020,16.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2014,13.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Vietnam,VN,VNM,704,Zero vegetable or fruit consumption (6-23months),2020,16.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Yemen,YE,YEM,887,Zero vegetable or fruit consumption (6-23months),2013,65.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Yemen,YE,YEM,887,Zero vegetable or fruit consumption (6-23months),2013,65.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Yemen,YE,YEM,887,Zero vegetable or fruit consumption (6-23months),2013,65.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2007,25.7,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2013,34.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2018,29.2,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2007,24.5,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2013,35.3,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2018,29.7,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2007,25.1,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2013,35,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zambia,ZM,ZMB,894,Zero vegetable or fruit consumption (6-23months),2018,29.5,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2005,52.4,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2010,37.5,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2014,31.6,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2015,32,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2019,28.8,Female,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2005,54.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2010,40,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2014,33.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2015,32,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2019,26.8,Male,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2005,53.6,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2010,38.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2014,32.7,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2015,32,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old
+Zimbabwe,ZW,ZWE,716,Zero vegetable or fruit consumption (6-23months),2019,27.8,Total,Units,%,Reanalysed,,Middle of fieldwork,6 to 23 months old

@@ -1,0 +1,175 @@
+---
+title: "UNICEF Report: Zero Vegetable/Fruit Consumption"
+theme: darkly
+format:
+  html:
+    embed-resources: true
+    code-fold: true
+    toc: true
+    toc-depth: 2
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+<img src="unicef.png" width="30%"/>
+
+```{python}
+import pandas as pd
+from plotnine import (
+    ggplot, aes, geom_col, geom_point, geom_smooth, geom_line, geom_map,
+    geom_polygon, labs, theme_minimal, theme, element_text, element_line,
+    scale_fill_gradient, scale_color_brewer, element_rect, coord_fixed
+)
+import geopandas as gpd
+import matplotlib.pyplot as plt
+
+indicator_1 = pd.read_csv("dataset/unicef_indicator_1.csv")
+
+indicator_1['time_period'] = pd.to_numeric(indicator_1['time_period'], errors='coerce')
+```
+
+## 🔖 Introduction  
+The study evaluates worldwide trends of people who avoid eating vegetables or fruits through UNICEF data between 2005 and 2022. The research demonstrates wide variations in **zero vegetable/fruit consumption** rates between different regions as well as genders which affects nutrition policy strategies.  
+
+
+
+## 💡 Key Insights  
+
+### 🗺️ Global Hotspots (Map)  
+```{python}
+world = gpd.read_file("map/ne_110m_admin_0_countries.shp")
+
+merged_data = world.merge(indicator_1, left_on='NAME', right_on='country', how='left')
+
+world_map = (
+    ggplot(merged_data.dropna(subset=['obs_value']))
+    + geom_map(aes(fill='obs_value'), color='black', size=0.1) # Use geom_map which is designed for spatial data
+    + scale_fill_gradient(name="Zero Consumption %", low="#f0f9e8", high="#08589e", na_value="lightgrey")
+    + labs(title='Global Map of Zero Vegetable/Fruit Consumption',
+           subtitle='Percentage of children aged 6-23 months with no fruit or vegetable intake')
+    + theme_minimal()
+    + theme(
+        plot_title=element_text(size=14, face="bold", color='white'),
+        plot_subtitle=element_text(size=10, color='white'),
+        legend_title=element_text(size=10, color='white'),
+        legend_text=element_text(size=8, color='white'),
+        panel_grid_major=element_line(color='#4d4d4d'),
+        panel_grid_minor=element_line(color='#4d4d4d')
+    )
+    + coord_fixed(ratio=16/9)
+)
+
+world_map.save("hashpipes/world_map.png")
+display(world_map)
+```
+
+- 🔎 Children belonging to the age group of 6-23 months in Yemen South Asia together with Sudan and Chad in Sub-Saharan Africa exhibit the strongest decline in solid food consumption.    
+- 🔎 Developed regions (Europe/North America) report minimal cases.  
+
+---
+
+
+### 📊 Gender Disparities (Bar Chart)  
+```{python}
+top_countries = indicator_1.groupby('country')['obs_value'].mean().nlargest(10).index.tolist()
+filtered_data = indicator_1[indicator_1['country'].isin(top_countries)]
+
+bar_chart = (
+    ggplot(filtered_data, aes(x='country', y='obs_value', fill='sex'))
+    + geom_col(position='dodge', alpha=0.9)
+    + labs(title='Zero Vegetable/Fruit Consumption by Gender',
+           subtitle='Top 10 countries with highest rates',
+           x='Country', y='Percentage (%)')
+    + theme_minimal()
+    + theme(
+        axis_text_x=element_text(angle=45, vjust=1, hjust=1, size=8, color='white'),
+        plot_title=element_text(size=14, face="bold", color='white'),
+        plot_subtitle=element_text(size=10, color='white'),
+        legend_title=element_text(size=10, color='white'),
+        legend_text=element_text(size=8, color='white'),
+        panel_grid_major=element_line(color='#4d4d4d'),
+        panel_grid_minor=element_line(color='#4d4d4d'),
+        axis_title=element_text(size=10, color='white')
+    )
+)
+
+bar_chart.save("hashpipes/bar_chart.png")
+display(bar_chart)
+```
+
+- 🔎 **Top 10 affected countries**: Guinea, Ethiopia, Somalia.  
+- 🔎 Marginal gender gap: Females in Sudan show 3-5% higher zero-consumption than males.  
+
+---
+
+
+### 📈 Temporal Trends  
+```{python}
+scatter_plot = (
+    ggplot(indicator_1, aes(x='time_period', y='obs_value'))
+    + geom_point(alpha=0.5, color='#66c2a5')
+    + geom_smooth(method='lm', se=True, color='#fc8d62')
+    + labs(title='Trends in Zero Vegetable/Fruit Consumption Over Time',
+           subtitle='Linear regression shows overall trend',
+           x='Year', y='Percentage (%)')
+    + theme_minimal()
+    + theme(
+        plot_title=element_text(size=14, face="bold", color='white'),
+        plot_subtitle=element_text(size=10, color='white'),
+        axis_title=element_text(size=10, color='white'),
+        axis_text=element_text(size=8, color='white'),
+        panel_grid_major=element_line(color='#4d4d4d'),
+        panel_grid_minor=element_line(color='#4d4d4d')
+    )
+)
+
+scatter_plot.save("hashpipes/scatter_plot.png")
+display(scatter_plot)
+```
+
+- 🔎 **Overall decline** (negative regression), but crises cause spikes (e.g., Yemen’s 2015 conflict).  
+
+---
+
+
+### ⌚ Time-Series of Zero Consumption in High-Risk Countries
+```{python}
+top5_countries = indicator_1.groupby('country')['obs_value'].mean().nlargest(10).index.tolist()
+top5_data = indicator_1[indicator_1['country'].isin(top5_countries)]
+
+time_series = (
+    ggplot(top5_data, aes(x='time_period', y='obs_value', color='country'))
+    + geom_line(size=1)
+    + geom_point(size=3)
+    + labs(title='Time-Series of Zero Vegetable/Fruit Consumption',
+           subtitle='Showing 5 countries with highest average rates',
+           x='Year', y='Percentage (%)')
+    + theme_minimal()
+    + theme(
+        plot_title=element_text(size=14, face="bold", color='white'),
+        plot_subtitle=element_text(size=10, color='white'),
+        axis_title=element_text(size=10, color='white'),
+        axis_text=element_text(size=8, color='white'),
+        legend_title=element_text(size=10, color='white'),
+        legend_text=element_text(size=8, color='white'),
+        legend_position="right",
+        panel_grid_major=element_line(color='#4d4d4d'),
+        panel_grid_minor=element_line(color='#4d4d4d')
+    )
+)
+
+time_series.save("hashpipes/time_series.png")
+display(time_series)
+``` 
+
+- 🔎 **Ethiopia and Sudan** persistently lead in zero-consumption rates.  
+
+---
+
+## 📝 Recommendations  
+1. **Region-specific programs** for Sub-Saharan Africa and conflict zones.  
+2. **Gender-sensitive monitoring** where disparities exist.  
+3. **Emergency nutrition support** during crises.  
+
